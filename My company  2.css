@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<title>My Car Shop</title>
+<style>
+	.box {
+		background-color: gold;
+		font-size: 5vw;
+		padding: 10vw;
+		margin: 5vw;
+		border: solid;
+	}
+</style>
+
+<div class="box">Price is what you pay. Value is what you get.</div>
+
+<head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width,initial-scale=1">
+   <tittle>My Car Shop</tittle>
+     <link rel="icon" type=" image/x-icon" href="Icons/Logo.png">
+   <link rel="stylesheet" type=" text/css" href="https://cdnjs.cloudflare.com/ajax/libs/front-awesome/6.4.2/css/all.min.css">
+   link rel="stylesheet" href="3-about.coss">
+</head>
+
+<body>
+     <!- - header start - - >
+     <a href="1-index.html" class="logo">
+     <img scr="Icons/Logo.png" >
+     </a>
+
+    <!- - nav bar start - - >
+    <nav class="navbar">
+         <input type=checkbox" id="check">
+            <label for="check" check" class="check-btn">
+                <i class="fas-bars"></i>
+   </label
+<ul>
+<li><a href="1-index.html">Hone</a></li>
+<li><a href="2-menu.html">Menu</a></li>
+<li><a class="active" href="3-about.html">About Us</ul></li>
+ </ul>
+<!- - <div id="menu-btn" class="fas fa-bars"></div> - - >
+</div>
+<!- - search end - ->
+
+<- - hyperlink with icons (search, cart, profile, menu button) - ->
+<div class = "icons"
+    <a href="cart.html"><div class = ""
+"fas fa-shopping-cart" id="cart-btn"></div></a>
+</div>
+<!- - hyperlink with icons (search, cart, profile, menu button) - ->
+</header>
+<!- - header end - ->
+
+<div class="heading">
+    <h1>About Us</h1>
+<p>"Coffee, teq, or me?"</p>
+</div>
+<div class="container">
+    <section class="about">
+    <section class="about-image">
+             <imgsrc="Banners/coverphoto2.png">
+</div>
+</section>
+
+
+
+<section class="team">
+    <h1>Meet the SEM Team</h1>
+    <div class="card">
+        <div class"card-img">
+          <img scr="Icons/picrew(10.png" alt="Profile1">
+</div>
+
+<a href="mailto:shantal.santuagi@tup.edu.ph">
+<div class="team-info">
+    <h2 class=" card-name">Anthony</h2>
+    <p class="card role">Member</p>
+    <p><button class="button"> 09929623389></p>
+</div>
+</div>
+
+<div class="card">
+ <div class="card-img">
+     <img scr="Icons/picrew (10).png" alt="Profile3">
+</div>
+<div class="team-info">
+    <h2 class="card name">Monica</h2>
+    <p class="card-role">Member</p>
+    <p class="card-email">anthony.cervantes@tup.edu.ph</p>
+    <p><button class="button">Contact</button></p>
+    </div>
+   </div>
+</div>
+
+</section>
+
+<- - footer start - ->
+    <section class="footer">
+      <div class="container">
+          <div class="footer-box-1">
+              <h3> Parañaque City </h3>
+              <div class="fooster-loc">
+                  <a href="https://www.google.com/maps/place/TUP+-+College+of+Industrial+Technology/@14.5873937,1209848474,17z/data=! 3m1 !4b1 !4m6 #! 3m5 !1s0x3397cb93cd451575:0x6247d293ffefede0!8m2!3d14.5873937!4d120.9848474!16s%2F11hfq216nk?h1=en&entry=ttu" target=_blank>College of Industrial Technology, 660, TUP, Ermita, Manila, 1000</a>
+   </div>
+</div>
+
+<div class="fooster-box">
+     <h3>Contact Us</h3>
+     <p>Connect With Us On:</p>
+     <div class="icons">
+         <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+         <a href="#"><i class="fa-brands fa-instagram"></i></a>
+         <a href="#"><i class="fa-brands fa-twitter"></i></a>
+     </div>
+
+   </div>
+  </div>
+</section>
+<! - - footer end - - >
+
+</body
+
+</html>
